@@ -1,0 +1,15 @@
+D:\Hillel_Lessons\Homework\Homework2(2)\bin\Debug\net8.0\Homework2(2).exe
+D:\Hillel_Lessons\Homework\Homework2(2)\bin\Debug\net8.0\Homework2(2).deps.json
+D:\Hillel_Lessons\Homework\Homework2(2)\bin\Debug\net8.0\Homework2(2).runtimeconfig.json
+D:\Hillel_Lessons\Homework\Homework2(2)\bin\Debug\net8.0\Homework2(2).dll
+D:\Hillel_Lessons\Homework\Homework2(2)\bin\Debug\net8.0\Homework2(2).pdb
+D:\Hillel_Lessons\Homework\Homework2(2)\obj\Debug\net8.0\Homework2(2).GeneratedMSBuildEditorConfig.editorconfig
+D:\Hillel_Lessons\Homework\Homework2(2)\obj\Debug\net8.0\Homework2(2).AssemblyInfoInputs.cache
+D:\Hillel_Lessons\Homework\Homework2(2)\obj\Debug\net8.0\Homework2(2).AssemblyInfo.cs
+D:\Hillel_Lessons\Homework\Homework2(2)\obj\Debug\net8.0\Homework2(2).csproj.CoreCompileInputs.cache
+D:\Hillel_Lessons\Homework\Homework2(2)\obj\Debug\net8.0\Homework2(2).sourcelink.json
+D:\Hillel_Lessons\Homework\Homework2(2)\obj\Debug\net8.0\Homework2(2).dll
+D:\Hillel_Lessons\Homework\Homework2(2)\obj\Debug\net8.0\refint\Homework2(2).dll
+D:\Hillel_Lessons\Homework\Homework2(2)\obj\Debug\net8.0\Homework2(2).pdb
+D:\Hillel_Lessons\Homework\Homework2(2)\obj\Debug\net8.0\Homework2(2).genruntimeconfig.cache
+D:\Hillel_Lessons\Homework\Homework2(2)\obj\Debug\net8.0\ref\Homework2(2).dll
